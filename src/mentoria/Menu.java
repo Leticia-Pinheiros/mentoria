@@ -238,7 +238,7 @@ public class Menu {
 
             System.out.println("\nReunião editada com sucesso.");
         } else {
-            System.out.println("\nEscolha inválida.");
+            System.out.println("\nEscolha inválida .");
         }
     }
 
